@@ -3,4 +3,6 @@ class Person
     @name = name
   end
   
+  attr_accessor :name
+  
 end
